@@ -1,1 +1,0 @@
-put the cdn for jQuery in
